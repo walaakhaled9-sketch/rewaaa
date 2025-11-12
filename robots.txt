@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://walaakhaled9-sketch.github.io/rewaaa/walaakhaled9-sketch.github.io/rewaaa/sitemap.xml
